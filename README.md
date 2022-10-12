@@ -5,4 +5,4 @@ More concretely, we start by building the attention mechanism, single-head atten
 Then we build a small sentiment classifier, a BERT model and a GPT model using existing PyTorch functions.
 In all cases, we only want to get the pipeline to work on a basic level and the performance does not have to beat the state-of-the-art or similar. 
 
-You can find a more detailed description of the project and the rules we followed in this LessWrong post (TBD). 
+You can find a more detailed description of the project and the rules we followed in this LessWrong post: https://www.lesswrong.com/posts/98jCNefEaBBb7jwu6/building-a-transformer-from-scratch-ai-safety-up-skilling. 
